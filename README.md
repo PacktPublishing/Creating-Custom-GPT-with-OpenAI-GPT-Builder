@@ -1,5 +1,3 @@
-# Creating-Custom-GPT-with-OpenAI-GPT-Builder
-Creating Custom GPT with OpenAI GPT Builder, published by Packt
 <a href="https://www.packtpub.com/en-us/unlock"><img src="https://drive.google.com/uc?export=view&id=1lQCTQQ8iV5pGuPA1n5wuds-3pwJi0OD_"></a>
 <h1 align="center">
 Creating Custom GPT with OpenAI GPT Builder, First Edition</h1>
